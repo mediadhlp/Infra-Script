@@ -21,3 +21,5 @@ Script para:
 - retenção de queries
 - otimização sqlite
 - manutenção Pi-hole
+
+edite o cron e coloque para rodar a cada 60 dias.
