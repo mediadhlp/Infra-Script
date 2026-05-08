@@ -1,22 +1,18 @@
-# Script manutenção Pi-hole
+Certifique que exista a pasta: /opt/script
+se nao existir, crie - mkdir /opt/script
+vá até a pasta: cd /opt/script
 
-## Download
-
-```bash
 wget https://raw.githubusercontent.com/mediadhlp/Infra-Script/main/manutpihole.sh
-```
+
 
 ## Permissão
 
-```bash
 chmod +x manutpihole.sh
-```
+
 
 ## Execução
 
-```bash
 ./manutpihole.sh
-```
 
 ## Objetivo
 
