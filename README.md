@@ -22,4 +22,4 @@ Script para:
 - otimização sqlite
 - manutenção Pi-hole
 
-edite o cron e coloque para rodar a cada 60 dias.
+edite o cron e coloque para rodar a cada 60 dias no sábado às 00h
